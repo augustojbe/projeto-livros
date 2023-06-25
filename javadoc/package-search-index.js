@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.coffeeandit"},{"l":"br.com.coffeeandit.datasource"},{"l":"br.com.coffeeandit.digital"},{"l":"br.com.coffeeandit.excecao"},{"l":"br.com.coffeeandit.factory"},{"l":"br.com.coffeeandit.fisico"},{"l":"br.com.coffeeandit.livro"}];updateSearchResults();
